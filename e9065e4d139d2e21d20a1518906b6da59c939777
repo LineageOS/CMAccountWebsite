@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_ab3cfb2f",
+        "filename": "app/js/translations/fr-fr.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-08-25T03:15:17Z",
+      "side": 1,
+      "message": "SSH -\u003e SSL",
+      "revId": "e9065e4d139d2e21d20a1518906b6da59c939777",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
