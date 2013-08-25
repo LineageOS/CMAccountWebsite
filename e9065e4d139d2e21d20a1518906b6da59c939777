@@ -16,6 +16,24 @@
       "revId": "e9065e4d139d2e21d20a1518906b6da59c939777",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_ab6abb18",
+        "filename": "app/js/translations/fr-fr.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4045
+      },
+      "writtenOn": "2013-08-25T03:52:57Z",
+      "side": 1,
+      "message": "Pour eviter de s\u0027attirer la foudre des professionnels de la securite et pour etre plus juste (le \"cryptage SSL\" n\u0027existant pas vraiment a proprement parle), il serait plus interessant de modifier la phrase comme ceci:\n\n\"Tous les [e aigu]changes entre votre navigateur ou votre appareil et nos serveurs sont chiffr[e aigu]s [a grave] l\u0027aide de SSL.\" (merci a Samuel Tardieu pour la traduction).",
+      "parentUuid": "baee8101_ab3cfb2f",
+      "revId": "e9065e4d139d2e21d20a1518906b6da59c939777",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
