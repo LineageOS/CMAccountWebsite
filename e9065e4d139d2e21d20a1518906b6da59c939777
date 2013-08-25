@@ -34,6 +34,24 @@
       "revId": "e9065e4d139d2e21d20a1518906b6da59c939777",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_cb029f3e",
+        "filename": "app/js/translations/fr-fr.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-08-25T05:38:59Z",
+      "side": 1,
+      "message": "Etant loin d\u0027etre un specialiste en cryptographie, je leurs fais entierement confiance. Je corrige des que possible",
+      "parentUuid": "baee8101_ab6abb18",
+      "revId": "e9065e4d139d2e21d20a1518906b6da59c939777",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
