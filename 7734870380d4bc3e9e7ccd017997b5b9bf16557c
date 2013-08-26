@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_577e4caf",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 52,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-08-26T15:30:12Z",
+      "side": 1,
+      "message": "http://pastebin.com/Sxq0isGX",
+      "revId": "7734870380d4bc3e9e7ccd017997b5b9bf16557c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_b777b8d3",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-08-26T15:30:12Z",
+      "side": 1,
+      "message": "http://pastebin.com/U8pE462A",
+      "revId": "7734870380d4bc3e9e7ccd017997b5b9bf16557c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_9774b4cf",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-08-26T15:30:12Z",
+      "side": 1,
+      "message": "http://pastebin.com/ub2qrP46",
+      "revId": "7734870380d4bc3e9e7ccd017997b5b9bf16557c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_d7711ce2",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-08-26T15:30:12Z",
+      "side": 1,
+      "message": "You cannot locate or \"wipe\" your device :P",
+      "revId": "7734870380d4bc3e9e7ccd017997b5b9bf16557c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
