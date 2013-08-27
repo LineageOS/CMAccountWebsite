@@ -1,0 +1,106 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_8c7eeaac",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-08-27T08:10:59Z",
+      "side": 1,
+      "message": "Ondanks tekstueel volgens mij correct, wel veel u.\n\n\"Na uw registratie hebben wij u...\"?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_6c4aa685",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-08-27T08:10:59Z",
+      "side": 1,
+      "message": "die CyanogenMod -\u003e die op CyanogenMod?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_4c4fe292",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-08-27T08:10:59Z",
+      "side": 1,
+      "message": "Zin lijkt niet afgemaakt?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_0c49da8b",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-08-27T08:10:59Z",
+      "side": 1,
+      "message": "\"uw browser of apparaat\" klinkt raar. Waarom niet alleen \"uw apparaat\"?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_ec5e9644",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-08-27T08:10:59Z",
+      "side": 1,
+      "message": "aan -\u003e van?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_cc5bd253",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-08-27T08:10:59Z",
+      "side": 1,
+      "message": "te maken -\u003e aan te maken?\ntenminste (klinkt mij een beetje raar in de zin) -\u003e onder andere/zoals (laatste vertaling gebruikt zoals en dat vind ik beter klinken)?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
