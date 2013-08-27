@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_ec969693",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-08-27T04:25:44Z",
+      "side": 1,
+      "message": "mistyping",
+      "revId": "45d0fda7e82c7e07758afe1d99723bed94b3eac4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
