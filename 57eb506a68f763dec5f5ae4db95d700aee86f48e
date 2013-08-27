@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_df4b722a",
+        "filename": "app/js/translations/nl-be.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-08-27T09:38:14Z",
+      "side": 1,
+      "message": "- Wachtwoord van uw CyanogenMod-account herstellen\n\n(overal staat \u0027uw\u0027 bij)",
+      "revId": "57eb506a68f763dec5f5ae4db95d700aee86f48e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_5f5e62ea",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-08-27T09:38:14Z",
+      "side": 1,
+      "message": "- Wachtwoord van uw CyanogenMod-account herstellen\n\n(overal staat \u0027uw\u0027 bij)",
+      "revId": "57eb506a68f763dec5f5ae4db95d700aee86f48e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
