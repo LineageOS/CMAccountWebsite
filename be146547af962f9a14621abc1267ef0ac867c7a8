@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "baee8101_8c55ca1e",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-27T08:18:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "baee8101_8c7eeaac",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "baee8101_6c4aa685",
         "filename": "app/js/translations/nl-nl.js",
         "patchSetId": 2
@@ -30,6 +48,24 @@
       "writtenOn": "2013-08-27T08:10:59Z",
       "side": 1,
       "message": "die CyanogenMod -\u003e die op CyanogenMod?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_4c36c204",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-27T08:18:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "baee8101_6c4aa685",
       "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "baee8101_2c3b7eed",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 61,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-27T08:18:19Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/CMAccountWebsite/blob/master/app/js/translations/en-us.js#L74\n\nIk gok dat hierna het woord \u0027privacybeleid\u0027 wordt toegevoegd met een link ernaartoe, en dat links nog niet in een vertaling kunnen.",
+      "parentUuid": "baee8101_4c4fe292",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "baee8101_0c49da8b",
         "filename": "app/js/translations/nl-nl.js",
         "patchSetId": 2
@@ -64,6 +118,24 @@
       "writtenOn": "2013-08-27T08:10:59Z",
       "side": 1,
       "message": "\"uw browser of apparaat\" klinkt raar. Waarom niet alleen \"uw apparaat\"?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_0c40ba55",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-27T08:18:19Z",
+      "side": 1,
+      "message": "Omdat het ook gaat om de verbinding tussen de browser en de servers van CM, bijvoorbeeld wanneer je inlogt.",
+      "parentUuid": "baee8101_0c49da8b",
       "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -87,6 +159,24 @@
     },
     {
       "key": {
+        "uuid": "baee8101_cc22b2b9",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-27T08:18:19Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "baee8101_ec5e9644",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "baee8101_cc5bd253",
         "filename": "app/js/translations/nl-nl.js",
         "patchSetId": 2
@@ -98,6 +188,24 @@
       "writtenOn": "2013-08-27T08:10:59Z",
       "side": 1,
       "message": "te maken -\u003e aan te maken?\ntenminste (klinkt mij een beetje raar in de zin) -\u003e onder andere/zoals (laatste vertaling gebruikt zoals en dat vind ik beter klinken)?",
+      "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "baee8101_ac2f6ea0",
+        "filename": "app/js/translations/nl-nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-08-27T08:18:19Z",
+      "side": 1,
+      "message": "- Done\n- De Engelse vertaling vermeldt expliciet \u0027at least\u0027 hier, waarschijnlijk om aan te geven dat er nog meer functies zullen komen. Maar ik denk dat ik dit ook maar aanpas, aangezien het niet echt lekker klinkt.",
+      "parentUuid": "baee8101_cc5bd253",
       "revId": "be146547af962f9a14621abc1267ef0ac867c7a8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
