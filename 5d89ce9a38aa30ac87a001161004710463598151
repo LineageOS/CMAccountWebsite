@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ae2911b_8ceba7b0",
+        "filename": "app/js/translations/es-es.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-08-29T09:18:53Z",
+      "side": 1,
+      "message": "to be consistent ...tu dirección de correo electrónico...",
+      "revId": "5d89ce9a38aa30ac87a001161004710463598151",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_4ccedf5b",
+        "filename": "app/js/translations/es-es.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-08-29T09:18:53Z",
+      "side": 1,
+      "message": "There are other \"Localizar\" below. If we are not going to change the others then just revert this to the original \"Localización\" string\n(sorry for the original change request).",
+      "revId": "5d89ce9a38aa30ac87a001161004710463598151",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_2cdb931d",
+        "filename": "app/js/translations/es-es.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 3134
+      },
+      "writtenOn": "2013-08-29T09:18:53Z",
+      "side": 1,
+      "message": "Remove the unnecessary double return carriage. One is enough.",
+      "revId": "5d89ce9a38aa30ac87a001161004710463598151",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
