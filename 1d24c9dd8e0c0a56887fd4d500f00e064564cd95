@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ae2911b_2cfcb33d",
+        "filename": "app/js/translations/es-es.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-29T10:49:51Z",
+      "side": 1,
+      "message": "We must to test angle quotes in a html navigator.",
+      "revId": "1d24c9dd8e0c0a56887fd4d500f00e064564cd95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_0cf9f74d",
+        "filename": "app/js/translations/es-es.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 2134
+      },
+      "writtenOn": "2013-08-29T10:49:51Z",
+      "side": 1,
+      "message": "I prefer to use same word of AOSP. In this case \"ubicar/ubicación\". CMAccount follows this style now.",
+      "revId": "1d24c9dd8e0c0a56887fd4d500f00e064564cd95",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
