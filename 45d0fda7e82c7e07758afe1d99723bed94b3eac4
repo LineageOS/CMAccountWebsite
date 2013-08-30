@@ -16,6 +16,24 @@
       "revId": "45d0fda7e82c7e07758afe1d99723bed94b3eac4",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9af37de9_925bba2e",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 6650
+      },
+      "writtenOn": "2013-08-30T04:53:20Z",
+      "side": 1,
+      "message": "??pardon",
+      "parentUuid": "baee8101_ec969693",
+      "revId": "45d0fda7e82c7e07758afe1d99723bed94b3eac4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
