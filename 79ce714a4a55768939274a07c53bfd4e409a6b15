@@ -34,6 +34,41 @@
       "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_155fb60f",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-08-31T00:46:46Z",
+      "side": 1,
+      "message": "Kitartok amellett, hogy nem kell a nével? :P\nVagy: \"Hozza létre saját CyanogenMod fiókját\"",
+      "parentUuid": "3ae2911b_75683abb",
+      "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_f59aeac4",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-08-31T00:46:46Z",
+      "side": 1,
+      "message": "els? mondatban 2x van a funkciók ami picit böki a szemem.\n\n\"A készülék keresése és távoli törlés funkcióknál azok jellege miatt a biztonság volt az els?dleges szempont. Jelszóhitelesítés nélkül ezek a funkciók nem használhatók.\"",
+      "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
