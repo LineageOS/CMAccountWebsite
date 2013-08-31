@@ -55,6 +55,24 @@
     },
     {
       "key": {
+        "uuid": "3ae2911b_75af1ae4",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T01:17:14Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3ae2911b_155fb60f",
+      "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ae2911b_f59aeac4",
         "filename": "app/js/translations/hu-hu.js",
         "patchSetId": 2
@@ -66,6 +84,24 @@
       "writtenOn": "2013-08-31T00:46:46Z",
       "side": 1,
       "message": "els? mondatban 2x van a funkciók ami picit böki a szemem.\n\n\"A készülék keresése és távoli törlés funkcióknál azok jellege miatt a biztonság volt az els?dleges szempont. Jelszóhitelesítés nélkül ezek a funkciók nem használhatók.\"",
+      "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_95a966e2",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T01:17:14Z",
+      "side": 1,
+      "message": "ezek a lehet?ségek...\n\nHa már \"annyira\" zavar szóismétlés.",
+      "parentUuid": "3ae2911b_f59aeac4",
       "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
