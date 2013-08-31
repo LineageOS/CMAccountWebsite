@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ae2911b_553c1e2f",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T08:24:46Z",
+      "side": 1,
+      "message": "A regisztráció alkalmával küldtünk Önnek egy e-mailt. Kérjük, kövesse a benne talált linket.",
+      "revId": "d4455cb4a704e57d711684fa444a4761a0936365",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_354992d1",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T08:24:46Z",
+      "side": 1,
+      "message": "Tovább információ itt olvasható:",
+      "revId": "d4455cb4a704e57d711684fa444a4761a0936365",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_154696bf",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T08:24:46Z",
+      "side": 1,
+      "message": "A kommunikáció során a jelszavakat soha nem küldjük titkosítatlanul.\n\nvagy\n\nA kommunikáció során jelszavakat soha nem küldünk titkosítatlanul.",
+      "revId": "d4455cb4a704e57d711684fa444a4761a0936365",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_d516cea6",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T08:24:46Z",
+      "side": 1,
+      "message": "Mit nyújt a CyanogenMod fiók?",
+      "revId": "d4455cb4a704e57d711684fa444a4761a0936365",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_b50b427d",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T08:24:46Z",
+      "side": 1,
+      "message": "Saját eszközök",
+      "revId": "d4455cb4a704e57d711684fa444a4761a0936365",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
