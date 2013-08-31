@@ -16,6 +16,24 @@
       "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_75683abb",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-08-31T00:34:50Z",
+      "side": 1,
+      "message": "Meddig vársz?\n:-)\nSenkit nem akarok meger?szakolni. Részemr?l igazából mindegy mi kerül ide.\n\nAz eddig leírtakat (amik most már nem látszanak) továbbra is fenntartom.",
+      "parentUuid": "3ae2911b_3534f2dc",
+      "revId": "79ce714a4a55768939274a07c53bfd4e409a6b15",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
