@@ -37,6 +37,58 @@
     },
     {
       "key": {
+        "uuid": "1adf8d57_ab408908",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2013-09-02T23:21:46Z",
+      "side": 1,
+      "message": "Ezek (dupla szóköz) szerintem szándékosak. Több helyen is van ilyen. Benne hagytam, ahogy az angolban volt.",
+      "parentUuid": "3ae2911b_86f81e7e",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1adf8d57_8b45cd18",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2013-09-02T23:21:46Z",
+      "side": 1,
+      "message": "Itt is van.",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1adf8d57_6b4bc12c",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 3214
+      },
+      "writtenOn": "2013-09-02T23:21:46Z",
+      "side": 1,
+      "message": "Itt is van.",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ae2911b_46f2369c",
         "filename": "app/js/translations/hu-hu.js",
         "patchSetId": 4
