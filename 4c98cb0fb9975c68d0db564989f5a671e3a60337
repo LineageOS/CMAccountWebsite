@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3ae2911b_86f81e7e",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-09-02T04:51:30Z",
+      "side": 1,
+      "message": "ez itt 2 szóköz (az A el?tt)",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_46f2369c",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-09-02T04:51:30Z",
+      "side": 1,
+      "message": "Remove, nem remote -\u003e Eszköz eltávolítása",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_062b0eed",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-09-02T04:51:30Z",
+      "side": 1,
+      "message": "ez a mondat vessz?ért kiált :)",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_e62fe2f4",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-09-02T04:51:30Z",
+      "side": 1,
+      "message": "funkcIókat",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
