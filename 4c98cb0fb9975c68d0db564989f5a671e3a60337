@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "3ae2911b_c611865f",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-02T06:40:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3ae2911b_86f81e7e",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ae2911b_46f2369c",
         "filename": "app/js/translations/hu-hu.js",
         "patchSetId": 4
@@ -30,6 +48,24 @@
       "writtenOn": "2013-09-02T04:51:30Z",
       "side": 1,
       "message": "Remove, nem remote -\u003e Eszköz eltávolítása",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_a6167a53",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-02T06:40:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3ae2911b_46f2369c",
       "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -53,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "3ae2911b_860c9e43",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-02T06:40:25Z",
+      "side": 1,
+      "message": "A beírt jelszó hibás, vagy lejárt az id?korlát",
+      "parentUuid": "3ae2911b_062b0eed",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "3ae2911b_e62fe2f4",
         "filename": "app/js/translations/hu-hu.js",
         "patchSetId": 4
@@ -64,6 +118,24 @@
       "writtenOn": "2013-09-02T04:51:30Z",
       "side": 1,
       "message": "funkcIókat",
+      "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3ae2911b_6609b231",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-02T06:40:25Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3ae2911b_e62fe2f4",
       "revId": "4c98cb0fb9975c68d0db564989f5a671e3a60337",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
