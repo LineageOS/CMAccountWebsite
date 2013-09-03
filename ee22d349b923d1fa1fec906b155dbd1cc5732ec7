@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1adf8d57_2e6267d9",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-03T07:26:15Z",
+      "side": 1,
+      "message": "Change \u0027en-us\u0027 to \u0027it-it\u0027",
+      "revId": "ee22d349b923d1fa1fec906b155dbd1cc5732ec7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
