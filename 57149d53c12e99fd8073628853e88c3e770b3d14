@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1adf8d57_4bf6c5d8",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 5
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-03T00:17:08Z",
+      "side": 1,
+      "message": "Done",
+      "revId": "57149d53c12e99fd8073628853e88c3e770b3d14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1adf8d57_8b138d0d",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 5
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-03T00:17:08Z",
+      "side": 1,
+      "message": "A beírt jelszó hibás, vagy lejárt az id?korlát",
+      "revId": "57149d53c12e99fd8073628853e88c3e770b3d14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1adf8d57_6bf981c8",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 5
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 5393
+      },
+      "writtenOn": "2013-09-03T00:17:08Z",
+      "side": 1,
+      "message": "Done",
+      "revId": "57149d53c12e99fd8073628853e88c3e770b3d14",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
