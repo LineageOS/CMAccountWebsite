@@ -1,0 +1,208 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa0d59b9_6a3a97cf",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "come diceva Marco cmaccount.l10n.it-it",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_eafe8704",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "password con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_ca03c30c",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "password con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_aa088f29",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "password con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_8a0dcb39",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 45,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "password con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_2a1dbf66",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 79,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "server senza la s finale",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_4a10f34e",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "remota con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_0a1afb6e",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 85,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "remota con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_ea2567ae",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 102,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "remota con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_ca2aa37e",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "Rimuovi al posto di Rimuovo?\ndispositivo con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_aa1f6f5a",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 108,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "dispositivo con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa0d59b9_8a24abaf",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 109,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-04T06:55:23Z",
+      "side": 1,
+      "message": "fallita con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
