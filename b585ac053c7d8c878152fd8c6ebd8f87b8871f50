@@ -138,6 +138,57 @@
     },
     {
       "key": {
+        "uuid": "da1255d7_4cda4f7a",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-05T01:31:54Z",
+      "side": 1,
+      "message": "registrazione con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da1255d7_6cdd1370",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-05T01:31:54Z",
+      "side": 1,
+      "message": "telefonico  con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "da1255d7_2ce71b42",
+        "filename": "app/js/translations/it-it.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 3184
+      },
+      "writtenOn": "2013-09-05T01:31:54Z",
+      "side": 1,
+      "message": "dispositivo con l\u0027iniziale minuscola",
+      "revId": "b585ac053c7d8c878152fd8c6ebd8f87b8871f50",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "fa0d59b9_ea2567ae",
         "filename": "app/js/translations/it-it.js",
         "patchSetId": 3
