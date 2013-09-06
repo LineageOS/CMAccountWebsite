@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba076199_516546df",
+        "filename": "app/partials/login.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-09-06T19:10:30Z",
+      "side": 1,
+      "message": "Somehow this doesn\u0027t get translated.",
+      "revId": "7acfa4c88ab9fc6e61bbb3c3c4ed8d0c15e814f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
