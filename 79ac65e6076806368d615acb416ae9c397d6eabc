@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba076199_71684abb",
+        "filename": "app/js/translations/hu-hu.js",
+        "patchSetId": 6
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1573
+      },
+      "writtenOn": "2013-09-06T19:11:25Z",
+      "side": 1,
+      "message": "Nincs még fiókja? Hozzon létre egyet: \u003cés ide jön a Regisztráció címke\u003e",
+      "revId": "79ac65e6076806368d615acb416ae9c397d6eabc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
