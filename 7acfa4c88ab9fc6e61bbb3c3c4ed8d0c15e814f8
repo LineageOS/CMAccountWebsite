@@ -16,6 +16,24 @@
       "revId": "7acfa4c88ab9fc6e61bbb3c3c4ed8d0c15e814f8",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba076199_1cc5a55a",
+        "filename": "app/partials/login.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 57,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2013-09-07T05:54:26Z",
+      "side": 1,
+      "message": "Looks fine to me: http://cl.ly/image/3r1y1W0J2N2W\n\nWhat language are you having problems with?",
+      "parentUuid": "ba076199_516546df",
+      "revId": "7acfa4c88ab9fc6e61bbb3c3c4ed8d0c15e814f8",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
