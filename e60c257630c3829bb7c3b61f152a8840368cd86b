@@ -34,6 +34,24 @@
       "revId": "e60c257630c3829bb7c3b61f152a8840368cd86b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba076199_3d774304",
+        "filename": "app/js/translations/pl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 5622
+      },
+      "writtenOn": "2013-09-08T08:20:15Z",
+      "side": 1,
+      "message": "ATM its ok ;)\ncheck this ss:\nhttp://img31.imageshack.us/img31/4854/2jd.png",
+      "parentUuid": "ba076199_5dac37ed",
+      "revId": "e60c257630c3829bb7c3b61f152a8840368cd86b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
