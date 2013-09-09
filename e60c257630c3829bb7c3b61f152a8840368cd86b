@@ -52,6 +52,24 @@
       "revId": "e60c257630c3829bb7c3b61f152a8840368cd86b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba076199_92b0598d",
+        "filename": "app/js/translations/pl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 4449
+      },
+      "writtenOn": "2013-09-09T03:06:59Z",
+      "side": 1,
+      "message": "Fair enough ;)",
+      "parentUuid": "ba076199_3d774304",
+      "revId": "e60c257630c3829bb7c3b61f152a8840368cd86b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
