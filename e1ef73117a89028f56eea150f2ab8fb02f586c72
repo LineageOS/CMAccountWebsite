@@ -69,6 +69,24 @@
       "revId": "e1ef73117a89028f56eea150f2ab8fb02f586c72",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba076199_85ddb572",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-09-09T06:47:36Z",
+      "side": 1,
+      "message": "En dan ook \n\n\"Probeer het over enkele minuten opnieuw\"",
+      "parentUuid": "ba076199_d29ed106",
+      "revId": "e1ef73117a89028f56eea150f2ab8fb02f586c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
