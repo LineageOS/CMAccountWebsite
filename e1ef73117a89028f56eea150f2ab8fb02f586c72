@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba076199_92ca994e",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-09-09T00:58:01Z",
+      "side": 1,
+      "message": "Moet dat niet tussen \"\"?",
+      "revId": "e1ef73117a89028f56eea150f2ab8fb02f586c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "ba076199_52c4213f",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2248
+      },
+      "writtenOn": "2013-09-09T00:58:01Z",
+      "side": 1,
+      "message": "Ik zou de volgorde van woorden iets anders kiezen:\"Er kon geen beveiligde verbinding met uw apparaat tot stand worden gebracht.\"",
+      "revId": "e1ef73117a89028f56eea150f2ab8fb02f586c72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
