@@ -50,6 +50,74 @@
       "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_ed2b4132",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 101,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-11T06:18:17Z",
+      "side": 1,
+      "message": "?????, ????? ????? «???????? ?? ?????»?",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_2d0399ba",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 103,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-11T06:18:17Z",
+      "side": 1,
+      "message": "???? ???? ?? ???????? ?? ?????????? «????...» ????????? ???? ????? ????????? ??? «????? ????????» ??? «??????? ??????».\n???????? ??? ??????? ?????????: https://dl.dropboxusercontent.com/u/16268774/Screenshots/2013-09-10%2022%2016%2020.png",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_6df991c8",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-11T06:18:17Z",
+      "side": 1,
+      "message": "? ??? ? ???. Remove device — «??????? ??????????».",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_cd307da1",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 5574
+      },
+      "writtenOn": "2013-09-11T06:18:17Z",
+      "side": 1,
+      "message": "«????????????» ??????.",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
