@@ -19,6 +19,40 @@
     },
     {
       "key": {
+        "uuid": "9a0c5dc1_6de75113",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-09-11T07:04:59Z",
+      "side": 1,
+      "message": "????? \"?????? ????? ???????????????\"?",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_4df6cdd8",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-09-11T07:04:59Z",
+      "side": 1,
+      "message": "?????? ??????",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a0c5dc1_8d5cc5ee",
         "filename": "app/js/translations/ru.js",
         "patchSetId": 1
@@ -30,6 +64,23 @@
       "writtenOn": "2013-09-11T06:00:37Z",
       "side": 1,
       "message": "???? ? ?????????? ????????? «?????? ? ?????? ????? ???????? ????????????» — ????? ?????. ???? ?????????.",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_6dce3185",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 80,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-09-11T07:04:59Z",
+      "side": 1,
+      "message": "...????????? ??? ???????????",
       "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -98,6 +149,23 @@
       "writtenOn": "2013-09-11T06:18:17Z",
       "side": 1,
       "message": "? ??? ? ???. Remove device — «??????? ??????????».",
+      "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a0c5dc1_4dcb6d73",
+        "filename": "app/js/translations/ru.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 5896
+      },
+      "writtenOn": "2013-09-11T07:04:59Z",
+      "side": 1,
+      "message": "???????, ?????????? \"?????? ??????????????\"",
       "revId": "4fdfb3b56ccb8b4b3c8d2367b21df6ae9889e768",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
