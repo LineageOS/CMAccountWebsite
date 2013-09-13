@@ -2,6 +2,91 @@
   "comments": [
     {
       "key": {
+        "uuid": "7a016987_4c093331",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "\" fehlt",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_effe9104",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 46,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Vielleicht einfach \u0027Passwort für Ihr CyanogenMod-Konto zurücksetzen\u0027?",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_cf03d50c",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Ihren -\u003e Ihr\n\nVielleicht auch \u0027... die Sie während der Registrierung erhalten haben sollten.\u0027?",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_2c06f720",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "...erforderlich, um...\n\nEinige Funktionen, zum Beispiel \"Gerät lokalisieren\", benötigen...",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_0c033b11",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 73,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "...anzulegen, wird nur...",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7a016987_66dbeeee",
         "filename": "app/js/translations/de.js",
         "patchSetId": 1
@@ -13,6 +98,228 @@
       "writtenOn": "2013-09-13T08:35:06Z",
       "side": 1,
       "message": "Nicht ganz schön, aber ich habe keine Ahnung wie ich das lösen kann.",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_af089929",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 76,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Auf alle Fälle sollte das \u0027mit unseren Datenschutzbestimmungen\u0027 heißen.",
+      "parentUuid": "7a016987_66dbeeee",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_8f0ddd39",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "- Authentifizierung groß\n- -Mitarbeiter\n- -Partner",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_6f13c15d",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Das zumindest klingt darin IMHO komisch. Ich würde es vielleicht einfach weglassen. Oder frei mit \u0027...haben Sie im Moment Zugriff...\u0027 übersetzen.",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_4f10054f",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 97,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Das \u0027gesehen\u0027 gefällt mir nicht 100%. Ich hätte spontan \u0027angemeldet\u0027 gesagt, aber vielleicht ist das ja auch missverständlich?",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_2f1dc966",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 99,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "\u0027Mobilfunknetz\u0027?",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_0f1a0d6f",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "\u0027Beim Aufbau der sichern Verbindung...\u0027?",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_4f37e5e3",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 113,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "...Passwort ist nicht korrekt...",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_ef2571ae",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Bitte warten Sie, während eine sichere Verbindung zu Ihrem Gerät aufgebaut wird.",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_cf2ab57e",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 117,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Der Dativ ist dem Genitiv sein Tod :-P\n\nEntweder \u0027...während des Versuchs, Ihr...\u0027 oder \u0027Bitte warten Sie, während Ihr Gerät lokalisiert wird.\u0027",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_af1f795a",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 118,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Bitte warten Sie, während der Löschvorgang gestartet wird.",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_8f24bdaf",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 119,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "Fernlöschen -\u003e Löschvorgang",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_6f3aa1cf",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 126,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "...entfernen, können Sie...",
+      "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_2f34a9dc",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-13T18:25:29Z",
+      "side": 1,
+      "message": "falsch -\u003e nicht korrekt",
       "revId": "b6d0c469070f34fc8ba636637c10b04ae37642b6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
