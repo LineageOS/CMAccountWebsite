@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_ba8219c7",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 3
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-14T22:57:10Z",
+      "side": 1,
+      "message": "Nach Funktionen ist ein Leerzeichen zu viel.",
+      "revId": "8b88fe579a8032701677cf7964fe4ca9afa4a70f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
