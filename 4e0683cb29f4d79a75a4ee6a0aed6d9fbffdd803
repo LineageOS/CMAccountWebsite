@@ -34,6 +34,24 @@
       "revId": "4e0683cb29f4d79a75a4ee6a0aed6d9fbffdd803",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_15c57e5a",
+        "filename": "app/js/translations/fr.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 4808
+      },
+      "writtenOn": "2013-09-15T08:48:51Z",
+      "side": 1,
+      "message": "Votre mot de passe doit être au minimum de huit (8) caractères. Ça va à tout le monde ?",
+      "parentUuid": "7a016987_7513925d",
+      "revId": "4e0683cb29f4d79a75a4ee6a0aed6d9fbffdd803",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
