@@ -34,6 +34,24 @@
       "revId": "b9b794d84a9451a778a049ac27d866b389741e4f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_15521ede",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 7221
+      },
+      "writtenOn": "2013-09-15T07:16:29Z",
+      "side": 1,
+      "message": "bij android_packages_apps_CMAccount hebben we \"De wachtwoorden komen niet overeen\" gebruikt.",
+      "parentUuid": "7a016987_35be3a00",
+      "revId": "b9b794d84a9451a778a049ac27d866b389741e4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
