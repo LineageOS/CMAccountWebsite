@@ -70,6 +70,24 @@
       "revId": "4e0683cb29f4d79a75a4ee6a0aed6d9fbffdd803",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_f5ed428f",
+        "filename": "app/js/translations/fr.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 138,
+      "author": {
+        "id": 4617
+      },
+      "writtenOn": "2013-09-15T22:28:05Z",
+      "side": 1,
+      "message": "Bof.\nJe persiste sur le \"mot de passe doit contenir au minimum...\", sinon on peux la faire à la Google : \"Utiliser au minimum 8 caractères pour votre mot de passe\".",
+      "parentUuid": "7a016987_f5878210",
+      "revId": "4e0683cb29f4d79a75a4ee6a0aed6d9fbffdd803",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
