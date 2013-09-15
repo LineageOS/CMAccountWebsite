@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_d5c006e3",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 131,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-09-15T23:28:50Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_packages_apps_Settings/blob/cm-10.2/res/values-zh-rTW/strings.xml\nstring name\u003d\"credentials_old_password\"",
+      "revId": "3168fdf1b912d0175107c0a601872a9deba51c98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_b5b58a7f",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-09-15T23:28:50Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_packages_apps_Settings/blob/cm-10.2/res/values-zh-rTW/strings.xml string name\u003d\"credentials_old_password\"",
+      "revId": "3168fdf1b912d0175107c0a601872a9deba51c98",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
