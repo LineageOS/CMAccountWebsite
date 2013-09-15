@@ -16,6 +16,24 @@
       "revId": "b9b794d84a9451a778a049ac27d866b389741e4f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_35be3a00",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 122,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-15T06:55:20Z",
+      "side": 1,
+      "message": "Lijkt mij wel logisch, maar...: https://github.com/CyanogenMod/CMAccountWebsite/blob/master/app/js/translations/en.js#L139\n\nTypfoutje daar misschien?",
+      "parentUuid": "7a016987_ba9e9905",
+      "revId": "b9b794d84a9451a778a049ac27d866b389741e4f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
