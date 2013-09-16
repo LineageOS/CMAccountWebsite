@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_15033e11",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 132,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-09-16T00:17:36Z",
+      "side": 1,
+      "message": "????????? ?????????",
+      "revId": "9feebc5fc9d963e752c33927a88454004236e741",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_35063a21",
+        "filename": "app/js/translations/zh-tw.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 133,
+      "author": {
+        "id": 4280
+      },
+      "writtenOn": "2013-09-16T00:17:36Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_packages_apps_Settings/blob/cm-10.2/res/values-zh-rTW/strings.xml#L1528\n    \u003cstring name\u003d\"preference_change_password_title\" msgid\u003d\"8955581790270130056\"\u003e\"????\"\u003c/string\u003e",
+      "revId": "9feebc5fc9d963e752c33927a88454004236e741",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
