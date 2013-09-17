@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_1b480f5b",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-17T05:38:26Z",
+      "side": 1,
+      "message": "Verdammt, doch noch was übersehen :(\nDie zwei \u0027en\u0027 hier sollten IMHO \u0027de\u0027 heißen.",
+      "revId": "dd4ff9039655f3c27a136f3fc5695cab35a93bff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a016987_fb73f3b2",
+        "filename": "app/js/translations/de.js",
+        "patchSetId": 4
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-17T05:38:26Z",
+      "side": 1,
+      "message": "Vor benötigen fehlt ein Komma.",
+      "revId": "dd4ff9039655f3c27a136f3fc5695cab35a93bff",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
