@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a016987_ed8c5637",
+        "filename": "app/js/translations/fr.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 6563
+      },
+      "writtenOn": "2013-09-18T19:49:34Z",
+      "side": 1,
+      "message": "cannal \u003d\u003e canal",
+      "revId": "165e50d08f090bb9b6b5818f12254bd1f5ac7af4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
