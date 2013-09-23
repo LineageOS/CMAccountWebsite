@@ -16,6 +16,23 @@
       "revId": "83340d20a834b0a0f5e20e88a86b3eb106a49388",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5afe65bd_d9516310",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 91,
+      "author": {
+        "id": 2881
+      },
+      "writtenOn": "2013-09-23T10:16:29Z",
+      "side": 1,
+      "message": "Indeed....it means disconnecting it from the CM Account\n\n- Apparaat verwijderen\n\n\nWhen clicking that button, this appears: \n\n\"Remove Device\n\n\nWeet u zeker dat u dit apparaat wilt verwijderen?\n\nIndien u dit apparaat verwijdert van uw CyanogenMod-account, beschikt u niet meer over functies zoals het lokaliseren of op afstand wissen van uw apparaat.\"\n\n\n\nNote that \"Remove Device\" is not translated yet.",
+      "revId": "83340d20a834b0a0f5e20e88a86b3eb106a49388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
