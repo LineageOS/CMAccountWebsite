@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5afe65bd_ee30d309",
+        "filename": "app/js/translations/nl.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 90,
+      "author": {
+        "id": 2597
+      },
+      "writtenOn": "2013-09-23T07:51:11Z",
+      "side": 1,
+      "message": "Based on Eddy\u0027s screenshot, this needs to be \u0027Apparaat verwijderen\u0027\n\nhttps://dl.dropboxusercontent.com/u/16268774/cmaw_before.png",
+      "revId": "83340d20a834b0a0f5e20e88a86b3eb106a49388",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
