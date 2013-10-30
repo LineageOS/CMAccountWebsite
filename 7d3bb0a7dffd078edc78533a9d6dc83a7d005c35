@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_9a097c34",
+        "filename": "app/js/translations/zh-cn.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-10-30T14:21:12Z",
+      "side": 1,
+      "message": "CyanogenMod ??????",
+      "revId": "7d3bb0a7dffd078edc78533a9d6dc83a7d005c35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_3a062821",
+        "filename": "app/js/translations/zh-cn.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-10-30T14:21:12Z",
+      "side": 1,
+      "message": "??? CyanogenMod ??????",
+      "revId": "7d3bb0a7dffd078edc78533a9d6dc83a7d005c35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_5a03f40f",
+        "filename": "app/js/translations/zh-cn.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-10-30T14:21:12Z",
+      "side": 1,
+      "message": "?? \\“??????\\” ? \\“?? Wipe\\” ??????\n\n????????????????? escape?????????",
+      "revId": "7d3bb0a7dffd078edc78533a9d6dc83a7d005c35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a4dcd0f_fdfe7a04",
+        "filename": "app/js/translations/zh-cn.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 123,
+      "author": {
+        "id": 3589
+      },
+      "writtenOn": "2013-10-30T14:21:12Z",
+      "side": 1,
+      "message": "???????",
+      "revId": "7d3bb0a7dffd078edc78533a9d6dc83a7d005c35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
